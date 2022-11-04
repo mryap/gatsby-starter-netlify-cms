@@ -46,16 +46,9 @@ export const IndexPageTemplate = ({
                     </div>
                   </div>
                   <Features gridItems={intro.blurbs} />
-                  <div className="columns">
-                    <div className="column is-12 has-text-centered">
-                      <Link className="btn" to="/#">
-                        See all products (Coming Soon)
-                      </Link>
-                    </div>
-                  </div>
                   <div className="column is-12">
                     <h3 className="has-text-weight-semibold is-size-2">
-                      Latest Noteworthy Information
+                      Latest Stories
                     </h3>
                     <BlogRoll />
                     <div className="column is-12 has-text-centered">
