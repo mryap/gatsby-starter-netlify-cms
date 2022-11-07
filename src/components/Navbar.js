@@ -48,7 +48,7 @@ const Navbar = () => {
               Contact
             </Link>
             </li>
-            <!-- <li className="navbar-end has-text-centered">
+            <li className="navbar-end has-text-centered">
             <a
               className="navbar-item"
               href="https://github.com/netlify-templates/gatsby-starter-netlify-cms"
@@ -59,7 +59,7 @@ const Navbar = () => {
                 <img src={github} alt="Github" />
               </span>
             </a>
-          </li> -->
+          </li>
         </ul>
       </div>
     </nav>
